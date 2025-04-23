@@ -43,7 +43,8 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 
 2)Hr Analytics Dashboard.pbix – https://github.com/Sameer22-coder/Power-bi-Project/blob/main/Hr%20Analytics%20Dashboard.pbix
 
-3)Dashboard.jpg – https://github.com/Sameer22-coder/Power-bi-Project/blob/main/Dashboard.jpg
+3)Dashboard.jpg ![Dashboard](https://github.com/user-attachments/assets/e1f8c0c2-36b5-4218-b830-0245fa769f06)
+
 
 4)README.md – Contains project summary, key insights, and setup instructions.
 
