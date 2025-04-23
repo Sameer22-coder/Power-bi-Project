@@ -39,7 +39,7 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 
 
 # Repository Structure
-1)HR_Analytics.csv – Cleaned HR dataset used for analysis and visualization.
+1)HR_Analytics.csv – <a https://github.com/Sameer22-coder/Power-bi-Project/blob/main/HR_Analytics.csv">Dataset</a>
 
 2)Hr Analytics Dashboard.pbix – Power BI file with interactive visuals and insights.
 
