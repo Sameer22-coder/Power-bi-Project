@@ -41,9 +41,9 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 # Repository Structure
 1)HR_Analytics.csv –https://github.com/Sameer22-coder/Power-bi-Project/blob/main/HR_Analytics.csv
 
-2)Hr Analytics Dashboard.pbix – Power BI file with interactive visuals and insights.
+2)Hr Analytics Dashboard.pbix – https://github.com/Sameer22-coder/Power-bi-Project/blob/main/Hr%20Analytics%20Dashboard.pbix
 
-3)Dashboard.jpg – Image preview of the final dashboard layout.
+3)Dashboard.jpg – https://github.com/Sameer22-coder/Power-bi-Project/blob/main/Dashboard.jpg
 
 4)README.md – Contains project summary, key insights, and setup instructions.
 
