@@ -36,4 +36,18 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 6.Created clear and insightful charts and KPIs for data-driven decision-making.
 
 7.Enabled HR teams to identify risk areas and improve retention strategies.
- 
+
+
+# Repository Structure
+1)HR_Analytics.csv – Cleaned HR dataset used for analysis and visualization.
+
+2)Hr Analytics Dashboard.pbix – Power BI file with interactive visuals and insights.
+
+3)Dashboard.jpg – Image preview of the final dashboard layout.
+
+4)README.md – Contains project summary, key insights, and setup instructions.
+
+
+# Feedback and Collaboration
+I welcome feedback, suggestions, and contributions to improve this project!
+If you spot any issues, have ideas to improve visualizations, or suggestions for additional insights—feel free to open an issue or drop a comment.
