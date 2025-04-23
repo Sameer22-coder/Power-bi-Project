@@ -21,4 +21,19 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 9.The average salary across employees is 6.5K.
 
 10.Employees stay at the company for an average of 7 years.
+
+# Project Highlights
+1.Built an interactive HR dashboard using Power BI to analyze employee attrition.
+
+2.Visualized key HR metrics such as average age, salary, attrition rate, and years of service.
+
+3.Analyzed attrition trends by job role, department, salary slab, gender, and business travel.
+
+4.Identified top 5 job roles with the highest attrition rates.
+
+5.Highlighted critical factors influencing attrition like age group, salary range, and travel frequency.
+
+6.Created clear and insightful charts and KPIs for data-driven decision-making.
+
+7.Enabled HR teams to identify risk areas and improve retention strategies.
  
