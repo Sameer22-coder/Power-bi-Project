@@ -5,7 +5,7 @@ This Power BI project presents an interactive HR analytics dashboard that provid
 1.	Total Attrition:
      Out of 1480 employees, 238 have left the company, indicating a noticeable attrition concern.
 2.	High Attrition by Job Role:
-    o	Sales Representative and Laboratory Technician have the highest attrition rates.\n
+    o	Sales Representative and Laboratory Technician have the highest attrition rates.<br>
     o	These roles may require further investigation regarding workload, compensation, or work environment.
 3.	Attrition by Age Group:
     o	The 26-35 and 36-45 age groups show the highest attrition counts.
