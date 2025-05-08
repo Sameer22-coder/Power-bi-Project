@@ -2,7 +2,7 @@
 This Power BI project presents an interactive HR analytics dashboard that provides insights into employee attrition patterns across various dimensions. The dashboard highlights the top 5 job roles with the highest attrition rates, helping HR teams identify trends and areas for strategic intervention.
 
 # Key Insights from HR Analytics Dashboard
-1.238 out of 1480 employees have left, indicating a significant attrition rate.
+1.238 out of 1480 employees have left, indicating a significant attrition rate .
 
 2.Sales Representative and Laboratory Technician roles have the highest attrition.
 
